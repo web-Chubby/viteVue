@@ -1,0 +1,25 @@
+{
+  "name": "my-vite-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.4",
+    "pinia": "^2.0.35",
+    "vite-plugin-vue-layouts": "^0.8.0",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "unplugin-auto-import": "^0.15.3",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.3.2",
+    "vite-plugin-pages": "^0.30.1"
+  }
+}
