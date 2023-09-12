@@ -16,3 +16,6 @@ vite 插件:
   * vite-plugin-pages 基于文件系统的路由生成器
 
 如果想要支持 vue2 ，可以使用 @vitejs/plugin-vue2 插件
+
+其中已经做好文件路由系统，只需要在 pages 文件夹中创建文件路由即可。
+对于全局状态管理自行查看 pinia 官方文档，基本与vuex相同
