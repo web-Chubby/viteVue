@@ -16,3 +16,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
   * pinia
 
 vite 插件:
+  * @vitejs/plugin-vue 提供 Vue 3 单文件组件支持
+  * unplugin-auto-import 按需 API 自动导入
+  * unplugin-vue-components 按需组件自动导入
+  * vite-plugin-pages 基于文件系统的路由生成器
